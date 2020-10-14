@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>back.png</file>
+        <file>chenggong.png</file>
+        <file>rili.png</file>
+        <file>whu.png</file>
+    </qresource>
+</RCC>

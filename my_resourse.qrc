@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/1.png</file>
+        <file>pic/4.png</file>
+        <file>pic/5.png</file>
+        <file>pic/7.png</file>
+        <file>pic/back6.jpg</file>
+        <file>pic/benjamin-voros-phIFdC6lA4E-unsplash.jpg</file>
+        <file>pic/mountains-1412683_1280.png</file>
+        <file>pic/whu2.png</file>
+        <file>pic/galaxy-3608029_1920.jpg</file>
+        <file>pic/mountain-846062_1920.jpg</file>
+        <file>pic/rough-horn-2146181_1920.jpg</file>
+        <file>pic/volcanoes-691939_1920.jpg</file>
+        <file>pic/11.jpg</file>
+        <file>pic/10.jpg</file>
+        <file>pic/13.jpg</file>
+    </qresource>
+</RCC>
